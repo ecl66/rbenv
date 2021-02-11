@@ -1,3 +1,6 @@
+#
+#!/usr/bin/bash
+
 sudo apt install curl
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
